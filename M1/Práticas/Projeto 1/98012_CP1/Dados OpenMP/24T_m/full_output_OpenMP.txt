@@ -1,0 +1,510 @@
+
+building.pgm
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 18.395000 (ms)
+OpenMP processing time (using 24 threads): 16.029000 (ms)
+Speedup: 1.147607
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 13.439000 (ms)
+OpenMP processing time (using 24 threads): 4.267000 (ms)
+Speedup: 3.149520
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 16.728000 (ms)
+OpenMP processing time (using 24 threads): 8.012000 (ms)
+Speedup: 2.087868
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 17.819000 (ms)
+OpenMP processing time (using 24 threads): 13.929000 (ms)
+Speedup: 1.279273
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 18.684000 (ms)
+OpenMP processing time (using 24 threads): 12.915000 (ms)
+Speedup: 1.446690
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 16.699000 (ms)
+OpenMP processing time (using 24 threads): 7.829000 (ms)
+Speedup: 2.132967
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 16.169000 (ms)
+OpenMP processing time (using 24 threads): 13.338000 (ms)
+Speedup: 1.212251
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 15.976000 (ms)
+OpenMP processing time (using 24 threads): 12.058000 (ms)
+Speedup: 1.324930
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 13.373000 (ms)
+OpenMP processing time (using 24 threads): 7.041000 (ms)
+Speedup: 1.899304
+images are identical
+detected 3785 features
+nonmax features 1375
+detected 3785 features
+nonmax features 1375
+
+Timing results:
+Host processing time: 18.449000 (ms)
+OpenMP processing time (using 24 threads): 13.560000 (ms)
+Speedup: 1.360546
+images are identical
+
+chessBig.pgm
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 60.945000 (ms)
+OpenMP processing time (using 24 threads): 22.458000 (ms)
+Speedup: 2.713732
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 67.411000 (ms)
+OpenMP processing time (using 24 threads): 19.499000 (ms)
+Speedup: 3.457152
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 65.503000 (ms)
+OpenMP processing time (using 24 threads): 20.477000 (ms)
+Speedup: 3.198857
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 66.923000 (ms)
+OpenMP processing time (using 24 threads): 26.615000 (ms)
+Speedup: 2.514484
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 67.984000 (ms)
+OpenMP processing time (using 24 threads): 22.706000 (ms)
+Speedup: 2.994098
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 65.968000 (ms)
+OpenMP processing time (using 24 threads): 25.700000 (ms)
+Speedup: 2.566848
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 62.530000 (ms)
+OpenMP processing time (using 24 threads): 19.490000 (ms)
+Speedup: 3.208312
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 63.367000 (ms)
+OpenMP processing time (using 24 threads): 22.045000 (ms)
+Speedup: 2.874439
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 65.343000 (ms)
+OpenMP processing time (using 24 threads): 22.729000 (ms)
+Speedup: 2.874874
+images are identical
+detected 3029 features
+nonmax features 997
+detected 3029 features
+nonmax features 997
+
+Timing results:
+Host processing time: 67.629000 (ms)
+OpenMP processing time (using 24 threads): 26.476000 (ms)
+Speedup: 2.554351
+images are identical
+
+chessRotate1.pgm
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.562000 (ms)
+OpenMP processing time (using 24 threads): 7.982000 (ms)
+Speedup: 0.195690
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.541000 (ms)
+OpenMP processing time (using 24 threads): 5.201000 (ms)
+Speedup: 0.296289
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.542000 (ms)
+OpenMP processing time (using 24 threads): 9.832000 (ms)
+Speedup: 0.156835
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.579000 (ms)
+OpenMP processing time (using 24 threads): 7.345000 (ms)
+Speedup: 0.214976
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.573000 (ms)
+OpenMP processing time (using 24 threads): 9.894000 (ms)
+Speedup: 0.158985
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.524000 (ms)
+OpenMP processing time (using 24 threads): 7.937000 (ms)
+Speedup: 0.192012
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.563000 (ms)
+OpenMP processing time (using 24 threads): 9.167000 (ms)
+Speedup: 0.170503
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.567000 (ms)
+OpenMP processing time (using 24 threads): 6.962000 (ms)
+Speedup: 0.225079
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.697000 (ms)
+OpenMP processing time (using 24 threads): 9.833000 (ms)
+Speedup: 0.172582
+images are identical
+detected 792 features
+nonmax features 102
+detected 792 features
+nonmax features 102
+
+Timing results:
+Host processing time: 1.580000 (ms)
+OpenMP processing time (using 24 threads): 7.116000 (ms)
+Speedup: 0.222035
+images are identical
+
+house.pgm
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.398000 (ms)
+OpenMP processing time (using 24 threads): 11.327000 (ms)
+Speedup: 0.388276
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.333000 (ms)
+OpenMP processing time (using 24 threads): 5.953000 (ms)
+Speedup: 0.727868
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.413000 (ms)
+OpenMP processing time (using 24 threads): 5.349000 (ms)
+Speedup: 0.825014
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.282000 (ms)
+OpenMP processing time (using 24 threads): 10.157000 (ms)
+Speedup: 0.421581
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.317000 (ms)
+OpenMP processing time (using 24 threads): 10.346000 (ms)
+Speedup: 0.417263
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.292000 (ms)
+OpenMP processing time (using 24 threads): 5.346000 (ms)
+Speedup: 0.802843
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.369000 (ms)
+OpenMP processing time (using 24 threads): 10.327000 (ms)
+Speedup: 0.423066
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.320000 (ms)
+OpenMP processing time (using 24 threads): 10.481000 (ms)
+Speedup: 0.412174
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.253000 (ms)
+OpenMP processing time (using 24 threads): 4.920000 (ms)
+Speedup: 0.864431
+images are identical
+detected 2054 features
+nonmax features 558
+detected 2054 features
+nonmax features 558
+
+Timing results:
+Host processing time: 4.271000 (ms)
+OpenMP processing time (using 24 threads): 6.071000 (ms)
+Speedup: 0.703508
+images are identical
+
+squares.pgm
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.132000 (ms)
+OpenMP processing time (using 24 threads): 5.403000 (ms)
+Speedup: 0.394596
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.758000 (ms)
+OpenMP processing time (using 24 threads): 5.638000 (ms)
+Speedup: 0.489181
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.157000 (ms)
+OpenMP processing time (using 24 threads): 8.299000 (ms)
+Speedup: 0.259911
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.051000 (ms)
+OpenMP processing time (using 24 threads): 9.961000 (ms)
+Speedup: 0.205903
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.107000 (ms)
+OpenMP processing time (using 24 threads): 4.546000 (ms)
+Speedup: 0.463484
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.092000 (ms)
+OpenMP processing time (using 24 threads): 10.104000 (ms)
+Speedup: 0.207047
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.090000 (ms)
+OpenMP processing time (using 24 threads): 12.741000 (ms)
+Speedup: 0.164037
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.125000 (ms)
+OpenMP processing time (using 24 threads): 10.568000 (ms)
+Speedup: 0.201079
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.087000 (ms)
+OpenMP processing time (using 24 threads): 11.029000 (ms)
+Speedup: 0.189228
+images are identical
+detected 96 features
+nonmax features 0
+detected 96 features
+nonmax features 0
+
+Timing results:
+Host processing time: 2.167000 (ms)
+OpenMP processing time (using 24 threads): 4.603000 (ms)
+Speedup: 0.470780
+images are identical

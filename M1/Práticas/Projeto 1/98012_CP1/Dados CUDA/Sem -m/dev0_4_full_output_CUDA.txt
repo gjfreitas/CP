@@ -1,0 +1,210 @@
+
+building.pgm
+detected 3785 features
+Host processing time: 11.977568 (ms)
+Device processing time: 1.581792 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.502016 (ms)
+Device processing time: 1.611392 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.033184 (ms)
+Device processing time: 1.597600 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.519680 (ms)
+Device processing time: 1.612736 (ms)
+images are identical
+detected 3785 features
+Host processing time: 11.984288 (ms)
+Device processing time: 1.590208 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.060800 (ms)
+Device processing time: 1.604768 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.436704 (ms)
+Device processing time: 1.626528 (ms)
+images are identical
+detected 3785 features
+Host processing time: 12.162784 (ms)
+Device processing time: 1.589824 (ms)
+images are identical
+detected 3785 features
+Host processing time: 11.990720 (ms)
+Device processing time: 1.610944 (ms)
+images are identical
+detected 3785 features
+Host processing time: 11.999328 (ms)
+Device processing time: 1.606144 (ms)
+images are identical
+
+chessBig.pgm
+detected 3029 features
+Host processing time: 66.330177 (ms)
+Device processing time: 7.625408 (ms)
+images are identical
+detected 3029 features
+Host processing time: 64.176125 (ms)
+Device processing time: 7.514304 (ms)
+images are identical
+detected 3029 features
+Host processing time: 68.399170 (ms)
+Device processing time: 7.643648 (ms)
+images are identical
+detected 3029 features
+Host processing time: 64.226013 (ms)
+Device processing time: 7.543456 (ms)
+images are identical
+detected 3029 features
+Host processing time: 63.981121 (ms)
+Device processing time: 7.496768 (ms)
+images are identical
+detected 3029 features
+Host processing time: 63.873695 (ms)
+Device processing time: 7.500672 (ms)
+images are identical
+detected 3029 features
+Host processing time: 64.528381 (ms)
+Device processing time: 7.545664 (ms)
+images are identical
+detected 3029 features
+Host processing time: 66.355202 (ms)
+Device processing time: 7.759488 (ms)
+images are identical
+detected 3029 features
+Host processing time: 63.786400 (ms)
+Device processing time: 7.473760 (ms)
+images are identical
+detected 3029 features
+Host processing time: 64.416801 (ms)
+Device processing time: 7.495584 (ms)
+images are identical
+
+chessRotate1.pgm
+detected 792 features
+Host processing time: 1.288192 (ms)
+Device processing time: 0.393632 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.266528 (ms)
+Device processing time: 0.380256 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.259520 (ms)
+Device processing time: 0.378592 (ms)
+images are identical
+detected 792 features
+Host processing time: 2.670592 (ms)
+Device processing time: 0.632224 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.321760 (ms)
+Device processing time: 0.385760 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.308896 (ms)
+Device processing time: 0.386464 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.573024 (ms)
+Device processing time: 0.388000 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.318912 (ms)
+Device processing time: 0.377216 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.336064 (ms)
+Device processing time: 0.377664 (ms)
+images are identical
+detected 792 features
+Host processing time: 1.261344 (ms)
+Device processing time: 0.394528 (ms)
+images are identical
+
+house.pgm
+detected 2054 features
+Host processing time: 7.278432 (ms)
+Device processing time: 0.769312 (ms)
+images are identical
+detected 2054 features
+Host processing time: 7.446816 (ms)
+Device processing time: 0.800320 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.397760 (ms)
+Device processing time: 0.559104 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.462368 (ms)
+Device processing time: 0.535776 (ms)
+images are identical
+detected 2054 features
+Host processing time: 7.192640 (ms)
+Device processing time: 0.803648 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.392096 (ms)
+Device processing time: 0.551424 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.366144 (ms)
+Device processing time: 0.539328 (ms)
+images are identical
+detected 2054 features
+Host processing time: 7.277952 (ms)
+Device processing time: 0.803040 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.365024 (ms)
+Device processing time: 0.531008 (ms)
+images are identical
+detected 2054 features
+Host processing time: 3.468512 (ms)
+Device processing time: 0.555488 (ms)
+images are identical
+
+squares.pgm
+detected 96 features
+Host processing time: 2.355200 (ms)
+Device processing time: 0.512832 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.273280 (ms)
+Device processing time: 0.508480 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.213536 (ms)
+Device processing time: 0.504000 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.175552 (ms)
+Device processing time: 0.503008 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.224128 (ms)
+Device processing time: 0.512192 (ms)
+images are identical
+detected 96 features
+Host processing time: 4.712864 (ms)
+Device processing time: 0.723648 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.293984 (ms)
+Device processing time: 0.512128 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.334304 (ms)
+Device processing time: 0.521376 (ms)
+images are identical
+detected 96 features
+Host processing time: 3.037280 (ms)
+Device processing time: 0.724640 (ms)
+images are identical
+detected 96 features
+Host processing time: 2.208512 (ms)
+Device processing time: 0.498784 (ms)
+images are identical

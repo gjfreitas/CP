@@ -1,0 +1,1 @@
+CC = mpiccCFLAGS = -Wall LDFLAGS =SRC = Ex1Prog1.c Ex1Prog2.cOBJ = $(SRC:.c=.o)TARGET = Ex1Prog1 Ex1Prog2all: $(TARGET)# Compile source files to object files%.o: %.c	$(CC) $(CFLAGS) -c $< -o $@# Link object files to create executables%: %.o	$(CC) $(LDFLAGS) $< -o $@clean:	rm -f $(OBJS) $(PROGRAMS)

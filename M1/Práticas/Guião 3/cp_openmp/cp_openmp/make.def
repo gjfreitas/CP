@@ -1,0 +1,15 @@
+# adapted from "A “Hands-on” Introduction to OpenMP" Tim Mattson Intel Corp. timothy.g.mattson@intel.com 
+
+# for gcc compiler on Linux
+# copy to make.def
+CC          = gcc
+CLINKER     = $(CC)
+OPTFLAGS    = -Wall -fopenmp -O3
+LIBS        =
+PRE         = ./
+
+CFLAGS	  = $(OPTFLAGS) 
+
+OBJ=o
+EXE=
+RM=rm

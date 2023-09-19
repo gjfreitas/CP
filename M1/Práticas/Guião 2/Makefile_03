@@ -1,0 +1,15 @@
+
+CFLAGS   = -Wall -O3
+CXXFLAGS = -Wall -O3
+
+.PHONY: all clean
+
+all: sumarray
+
+sumarray: sumarray.o
+	g++ $(CFLAGS) -O3 -o $@ $^
+
+
+clean:
+	rm -f *.o sumarray
+
